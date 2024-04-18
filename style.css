@@ -1,9 +1,8 @@
 .div-sketch{
-    display: flex;
-    background-color: blue;
+    background-color: white;
     height: 85px;
     width: 170px;
-
+    overflow: hidden;
 }
 
 .container{
@@ -21,7 +20,7 @@
 
 .dot{
     position: relative;
-    height: 5px;
-    width: 5px;
+    height: 2px;
+    width: 2px;
     background-color: black;
 }
